@@ -26,6 +26,7 @@ Documentaion for %{name}.
 %cargo_prep_online
 
 %build
+env
 %cargo_build
 
 %install
